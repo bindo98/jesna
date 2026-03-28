@@ -3,9 +3,9 @@
 
 const CONFIG = {
 
-title: "Villa Interior – Living Room",
+title: "Villa Interior – Master Bedroom",
 
-heading: "Living Room – Villa Interior",
+heading: "Master Bedroom – Villa Interior",
 
 panoramaImage: "1.png",
 
