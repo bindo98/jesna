@@ -7,7 +7,7 @@ title: "Villa Interior – Master Bedroom",
 
 heading: "Master Bedroom – Villa Interior",
 
-panoramaImage: "1.png",
+panoramaImage: "1.jpg",
 
 popupText: `
 <b>Disclaimer</b><br><br>
